@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  UrGrouped
 //
-//  Created by Albert Gonzalez on 8/17/15.
-//  Copyright © 2015 Albert Gonzalez. All rights reserved.
+//  Created by MacBook Pro on 8/16/15.
+//  Copyright © 2015 LLabs. All rights reserved.
 //
 
 import UIKit
